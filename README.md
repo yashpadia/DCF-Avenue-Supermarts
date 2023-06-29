@@ -1,6 +1,5 @@
 # DCF-Avenue-Supermarts
 This project details a meticulous DCF analysis for Avenue Supermarts, evaluating financial performance, intrinsic value, and investment potential. Authored with precision, it covers data collection, report formation, and comprehensive analysis.
-Title: Avenue Supermarts DCF Project: Comprehensive Analysis and Evaluation
 
 Introduction:
 The following project provides a detailed description of a Discounted Cash Flow (DCF) analysis conducted for Avenue Supermarts, a prominent retail company. This analysis was undertaken with the objective of evaluating the company's financial performance, determining its intrinsic value, and assessing its investment potential. It is important to note that every aspect of this project, from data collection to report formation and analysis, was meticulously carried out by the author.
